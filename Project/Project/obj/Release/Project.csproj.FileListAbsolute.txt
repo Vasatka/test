@@ -1,0 +1,10 @@
+C:\Users\Артемий\Desktop\Project\Project\bin\Release\Project.exe.config
+C:\Users\Артемий\Desktop\Project\Project\bin\Release\Project.exe
+C:\Users\Артемий\Desktop\Project\Project\bin\Release\Project.pdb
+C:\Users\Артемий\Desktop\Project\Project\obj\Release\Project.csprojAssemblyReference.cache
+C:\Users\Артемий\Desktop\Project\Project\obj\Release\Project.Form1.resources
+C:\Users\Артемий\Desktop\Project\Project\obj\Release\Project.Properties.Resources.resources
+C:\Users\Артемий\Desktop\Project\Project\obj\Release\Project.csproj.GenerateResource.cache
+C:\Users\Артемий\Desktop\Project\Project\obj\Release\Project.csproj.CoreCompileInputs.cache
+C:\Users\Артемий\Desktop\Project\Project\obj\Release\Project.exe
+C:\Users\Артемий\Desktop\Project\Project\obj\Release\Project.pdb
